@@ -1,0 +1,41 @@
+.menuList__home {
+  color: #000 !important;
+}
+
+.menuList__blog {
+  color: #000 !important;
+}
+
+.menuList__project {
+  color: #000 !important;
+}
+
+.menuList__mentor {
+  background-color: #00d1b2 !important;
+  font-weight: 600 !important;
+  color: #fff !important;
+}
+
+.menuList__mentor:hover {
+  background-color: #1abc9c !important;
+  font-weight: 600 !important;
+  color: #fff !important;
+}
+
+.menuList__work {
+  background-color: #00d1b2 !important;
+  color: #fff !important;
+  font-weight: 600 !important;
+}
+
+.menuList__work:hover {
+  background-color: #1abc9c !important;
+  color: #fff !important;
+  font-weight: 600 !important;
+}
+
+.MuiList-root {
+  padding-top: 0 !important;
+  padding-top: 0 !important;
+  width: 100vw !important;
+}

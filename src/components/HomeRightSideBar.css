@@ -1,0 +1,8 @@
+.homeRightSideBar {
+  min-width: 200px;
+  flex: 0.2;
+  border: 1px solid black;
+}
+
+@media screen and (max-width: 664px) {
+} ;

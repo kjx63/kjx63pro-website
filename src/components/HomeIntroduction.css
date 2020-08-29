@@ -1,0 +1,23 @@
+.homeIntroduction {
+  background-color: #1de9b6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: fit-content;
+}
+
+.homeIntroduction__container {
+  flex: 0.8;
+  text-align: center;
+  padding: 20px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.homeIntroduction__short {
+  margin-bottom: 20px;
+}
+
+.homeIntroduction__description {
+  line-height: 1.5rem;
+}

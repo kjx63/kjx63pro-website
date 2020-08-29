@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  text-decoration: none;
+}
+
+.app__home {
+  display: flex;
+  flex-direction: column;
+}
